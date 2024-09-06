@@ -1,0 +1,6 @@
+@url = https://8080-professional-spring0609-hrzvqp5y25d.ws-us116.gitpod.io
+###
+GET {{url}}/frutas
+
+###
+GET {{url}}/frutas/2
